@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_reference_1" label="Location" language="en" table="x_66299_sri_rama_j_rama_bhakta">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_66299_sri_rama_j_rama_bhakta</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-13 12:26:24</sys_created_on>
+            <sys_id>ee188738db701010ab24178039961949</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+            <sys_update_name>sys_documentation_x_66299_sri_rama_j_rama_bhakta_u_reference_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-14 10:18:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

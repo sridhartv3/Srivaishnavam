@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="JIRA 2.0">ec842482db201010ab241780399619af</basic_auth_profile>
+        <basic_auth_user>https://https://sridhartv3.atlassian.net</basic_auth_user>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>JIRA Testing [ Default GET ]</qualified_name>
+        <rest_endpoint>https://sridhartv3.atlassian.net/browse/SJI-2?filter=-4&amp;jql=project%3D%22SNow%20JIRA%20integration%22</rest_endpoint>
+        <rest_message display_value="JIRA Testing">b493ac42db201010ab24178039961981</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-04 11:25:59</sys_created_on>
+        <sys_id>a5f3ec02db201010ab24178039961930</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+        <sys_update_name>sys_rest_message_fn_a5f3ec02db201010ab24178039961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 12:33:31</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

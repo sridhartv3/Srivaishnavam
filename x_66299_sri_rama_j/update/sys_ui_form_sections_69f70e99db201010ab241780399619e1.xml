@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="69f70e99db201010ab241780399619e1" sys_domain="global" table="x_66299_sri_rama_j_rama_bhakta" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-02 10:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29f70e99db201010ab241780399619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_66299_sri_rama_j_rama_bhakta" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">69f70e99db201010ab241780399619e1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">49b58a51db201010ab241780399619b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-02 10:47:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-02 10:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25f70e99db201010ab241780399619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_66299_sri_rama_j_rama_bhakta" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">69f70e99db201010ab241780399619e1</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">2df70e99db201010ab241780399619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-02 10:47:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-02 10:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2df70e99db201010ab241780399619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_66299_sri_rama_j_rama_bhakta" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">69f70e99db201010ab241780399619e1</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_66299_sri_rama_j_rama_bhakta" sys_domain="global" view="Default view">29f70e99db201010ab241780399619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-02 10:47:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_66299_sri_rama_j_rama_bhakta</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-02 10:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69f70e99db201010ab241780399619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66299_sri_rama_j_rama_bhakta</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_69f70e99db201010ab241780399619e1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-02 10:47:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

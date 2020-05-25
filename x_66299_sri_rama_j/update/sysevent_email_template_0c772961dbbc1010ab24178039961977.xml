@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_66299_sri_rama_j_rama_bhakta</collection>
+        <email_layout/>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Srivaishnava Selection Process</name>
+        <sms_alternate/>
+        <subject>Select a person as Srivaishnava as per his Category</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 13:20:29</sys_created_on>
+        <sys_id>0c772961dbbc1010ab24178039961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Srivaishnava Selection Process</sys_name>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+        <sys_update_name>sysevent_email_template_0c772961dbbc1010ab24178039961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 13:20:29</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="rama bhakta" max_length="40" name="x_66299_sri_rama_j_rama_bhakta" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element active="false" attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Lowkikam" sequence="0" value="lowkikam"/>
+                <element inactive_on_update="false" label="Nasthikam" sequence="1" value="nasthikam"/>
+                <element inactive_on_update="false" label="Para Bhakti" sequence="2" value="para bhakti"/>
+                <element inactive_on_update="false" label="Para Gnyanam" sequence="3" value="para gnyanam"/>
+                <element inactive_on_update="false" label="Parama Bhakti" sequence="4" value="parama bhakti"/>
+            </choice>
+        </element>
+        <element label="Business Phone" max_length="40" name="u_integer_5" type="integer"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="u_reference_1" reference="cmn_location" type="reference"/>
+        <element attributes="encode_utf8=false" label="Email" max_length="32" name="u_reference_4" reference="ar_sys_email" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="1000" name="u_string_full_utf8_3" type="string_full_utf8"/>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

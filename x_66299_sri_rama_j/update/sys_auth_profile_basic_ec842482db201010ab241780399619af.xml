@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>JIRA 2.0</name>
+        <password>OX+oeI9/0nQtbbRMunEgYoBpYTqKiNYiezGkmvhMoxg=</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-04 11:31:25</sys_created_on>
+        <sys_id>ec842482db201010ab241780399619af</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>JIRA 2.0</sys_name>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_ec842482db201010ab241780399619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 12:07:02</sys_updated_on>
+        <username>sridhartv369@gmail.com</username>
+    </sys_auth_profile_basic>
+</record_update>

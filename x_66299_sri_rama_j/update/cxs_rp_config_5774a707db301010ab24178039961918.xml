@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Srivaishnava Lakshanam">8c34e307db301010ab24178039961905</cxs_context_config>
+        <limit>10</limit>
+        <name>Become a Srivaishnava</name>
+        <results_header_text>Related Search Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Become a Srivaishnava">d4442091dbb01010ab241780399619da</sc_cat_item>
+        <search_variable display_value="City">e944a891dbb01010ab241780399619b5</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 14:18:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5774a707db301010ab24178039961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Become a Srivaishnava</sys_name>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+        <sys_update_name>cxs_rp_config_5774a707db301010ab24178039961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 14:18:04</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=5774a707db301010ab24178039961918"/>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Srivaishnava lookup rule</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Srivaishnava lookup rule</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">fe274901db201010ab241780399619be</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 11:11:28</sys_created_on>
+        <sys_id>ff4d5786db749010ab241780399619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Srivaishnava lookup rule</sys_name>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sri Rama Jayam">1cabb951db201010ab241780399619fb</sys_scope>
+        <sys_update_name>sys_wizard_answer_ff4d5786db749010ab241780399619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 11:11:28</sys_updated_on>
+        <table/>
+        <target_url>x_66299_sri_rama_j_srivaishnava_lookup_rule.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

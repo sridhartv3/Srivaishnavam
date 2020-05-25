@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Data Lookup and Record Matching Support" source="com.glide.data_lookup">470eb0c9db241010ab2417803996196b</dependency>
+        <min_version>1.0.6</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 11:11:28</sys_created_on>
+        <sys_id>f34d9786db749010ab2417803996192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Sri Rama Jayam" source="x_66299_sri_rama_j">1cabb951db201010ab241780399619fb</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 11:11:28</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
